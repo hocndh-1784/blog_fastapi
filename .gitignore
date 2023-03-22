@@ -1,0 +1,36 @@
+# Python files
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# Dependency directories
+venv/
+env/
+lib/
+libs/
+dist/
+build/
+*.egg-info/
+pip-wheel-metadata/
+
+# Local development files
+.db.sqlite3
+.idea/
+.vscode/
+.env
+
+# Compiled files
+*.pyc
+*.class
+*.o
+*.so
+*.dylib
+
+# Logs
+*.log
+logs/
+*.swp
+
+# Data
+data/
